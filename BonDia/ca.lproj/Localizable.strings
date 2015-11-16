@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  BonDia
+
+  Created by Marc Gomez <marc.gomez.vidal@gmail.com> on 2/2/14.
+  Copyright (c) 2014 marcgomezvidal. All rights reserved.
+*/
+
+// NavigationBar
+"_BonDia" = "BonDia";
+
+// Sections
+"_Recents" = "Recents";
+
+// MainTableViewController
+"_NoArticles" = "Actualment no hi ha cap article disponible.";
+"_SwipeDownToRefresh" = "Lliscar cap avall per actualitzar";
+
+// Communication
+"_LastUpdate" = "Darrera actualització %@";
+"_Error" = "Error";
+"_Ok" = "Ok";
+"_Information" = "Informació";
+"_LoadingWebView" = "Carregant...";
+
+// ContactUsViewController
+"_SureYouWantCall %@" = "Esteu segurs de voler trucar al %@?";
+"_Warning" = "Avís";
+"_Call" = "Trucar";
+"_Cancel" = "Cancel·lar";
+
+//iRate
+"iRateMessageTitle" = "Comentari %@";
+"iRateAppMessage" = "Si t'agrada %@, podries escriure'ns un comentari? No trigaràs més d'un minut. Gràcies per la teva ajuda!";
+"iRateGameMessage" = "Si t'agrada jugar a %@, podries escriure'ns un comentari? No trigaràs més d'un minut. Gràcies per la teva ajuda!";
+"iRateCancelButton" = "No, gràcies";
+"iRateRateButton" = "Escriure un comentari ara";
+"iRateRemindButton" = "Recordar més tard";
